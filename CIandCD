@@ -1,0 +1,19 @@
+# CI and CD
+Continuous Integration and Continuous Delivery
+
+# GitHub Actions
+Automate your workflow from idea to production
+https://github.com/features/actions
+#
+Automate all software workflows with CI/CD
+Build, test and deploy your code right from Github
+Make code reviews, branch management, and issue triaging work
+
+# Github Marketplace - CI
+Continuous integration using Github apps
+https://github.com/marketplace/category/continuous-integration
+#
+# GuardRails - Github App via Github Marketplace
+e.g. GuardRails scans new code changes as they occur in your repos.
+GuardRails works out of the box, no configuration needed.
+
