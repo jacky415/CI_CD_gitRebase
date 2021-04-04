@@ -1,0 +1,30 @@
+# Notes 
+# Git rebase
+# https://docs.github.com/en/github/getting-started-with-github/about-git-rebase
+
+git rebase allows one to easily change a series of commits, modifying the history of the repository.
+You can reorder, edit, or squash commits together.
+
+git rebase is typically used to:
+-Edit previous commit messages
+-Combine multiple commits into one
+-Delete or revert commits that are no longer necessary
+
+e.g. rebase commits against a branch 
+$ git rebase --interactive other_branch_name
+
+# squash
+squash allows you to combine two or more commits into a single commit.
+A commit is squashed into the commit above it.
+Git then allows you to write a new commit message describing both changes
+
+# 6 commands available while rebasing
+-pick
+-reword
+-edit
+-squash
+-fixup
+-exec
+
+# Using Git rebase on CLI
+https://docs.github.com/en/github/getting-started-with-github/using-git-rebase-on-the-command-line
