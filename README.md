@@ -1,5 +1,6 @@
-# repoDemo
-repoDemo for practice
+# CI_CD_gitRebase
+CI_CD_gitRebase
+repo with notes
 
 I love to learn new technologies! 
 https://www.linkedin.com/in/jackyhua/
